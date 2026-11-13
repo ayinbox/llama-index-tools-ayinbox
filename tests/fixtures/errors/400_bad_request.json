@@ -1,0 +1,6 @@
+{
+  "error": "Bad Request",
+  "message": "The request body is missing or has invalid fields: \"name\" is required.",
+  "code": "bad_request",
+  "request_id": "req-fixture-0001"
+}

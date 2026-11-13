@@ -1,0 +1,10 @@
+{
+  "data": {
+    "name": "list_campaigns",
+    "result": {
+      "campaigns": []
+    },
+    "result_text": "{\"campaigns\":[]}",
+    "untrusted": false
+  }
+}

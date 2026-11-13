@@ -1,0 +1,6 @@
+{
+  "error": "Conflict",
+  "message": "Idempotency-Key was already used with a different request",
+  "code": "conflict",
+  "request_id": "req-fixture-0001"
+}

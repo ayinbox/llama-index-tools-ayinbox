@@ -1,0 +1,5 @@
+{
+  "error": "rate_limit_exceeded",
+  "message": "Rate limit exceeded for write operations",
+  "retry_after_ms": 12000
+}

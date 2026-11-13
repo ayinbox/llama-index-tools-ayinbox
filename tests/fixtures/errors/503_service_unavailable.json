@@ -1,0 +1,6 @@
+{
+  "error": "Service Unavailable",
+  "message": "service unavailable",
+  "code": "service_unavailable",
+  "request_id": "req-fixture-0001"
+}

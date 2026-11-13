@@ -1,0 +1,6 @@
+{
+  "error": "Forbidden",
+  "message": "This key is limited to certain mailboxes.",
+  "code": "api_key_mailbox_limited",
+  "request_id": "req-fixture-0001"
+}

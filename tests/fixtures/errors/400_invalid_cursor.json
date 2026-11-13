@@ -1,0 +1,6 @@
+{
+  "error": "Bad Request",
+  "message": "invalid cursor",
+  "code": "bad_request",
+  "request_id": "req-fixture-0001"
+}

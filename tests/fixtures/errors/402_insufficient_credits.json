@@ -1,0 +1,6 @@
+{
+  "error": "Payment Required",
+  "message": "You're out of AI credits. Add more to keep using the assistant.",
+  "code": "insufficient_credits",
+  "request_id": "req-fixture-0001"
+}

@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "name": "list_campaigns",
+      "description": "List the workspace's campaigns.",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "limit": {
+            "type": "integer"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "error": "Unauthorized",
+  "message": "Token not found.",
+  "code": "unauthorized",
+  "request_id": "req-fixture-0001"
+}

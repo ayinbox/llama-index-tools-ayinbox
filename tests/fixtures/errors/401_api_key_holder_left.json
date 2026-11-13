@@ -1,0 +1,6 @@
+{
+  "error": "Unauthorized",
+  "message": "The member who created this API key is no longer in this workspace. Create a new key.",
+  "code": "api_key_holder_left",
+  "request_id": "req-fixture-0001"
+}

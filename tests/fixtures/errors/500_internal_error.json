@@ -1,0 +1,6 @@
+{
+  "error": "Internal Server Error",
+  "message": "Something went wrong.",
+  "code": "internal_error",
+  "request_id": "req-fixture-0001"
+}

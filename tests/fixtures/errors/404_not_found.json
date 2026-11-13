@@ -1,0 +1,6 @@
+{
+  "error": "Not Found",
+  "message": "Resource not found.",
+  "code": "not_found",
+  "request_id": "req-fixture-0001"
+}

@@ -1,0 +1,7 @@
+{
+  "error": "rate_limit_exceeded",
+  "message": "API key exceeded 60 requests per minute",
+  "code": "rate_limit_exceeded",
+  "request_id": "req-fixture-0001",
+  "retry_after": 12
+}

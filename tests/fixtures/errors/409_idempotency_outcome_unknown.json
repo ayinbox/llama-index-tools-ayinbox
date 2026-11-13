@@ -1,0 +1,6 @@
+{
+  "error": "Conflict",
+  "message": "The request with this Idempotency-Key ended without a definite outcome. Retry with a new key only once you know the change did not happen.",
+  "code": "idempotency_outcome_unknown",
+  "request_id": "req-fixture-0001"
+}

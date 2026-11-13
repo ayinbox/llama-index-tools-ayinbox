@@ -1,0 +1,6 @@
+{
+  "error": "Forbidden",
+  "message": "insufficient API key permissions",
+  "code": "forbidden",
+  "request_id": "req-fixture-0001"
+}

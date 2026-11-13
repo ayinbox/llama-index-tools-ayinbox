@@ -1,0 +1,6 @@
+{
+  "error": "Unprocessable",
+  "message": "validation failed",
+  "code": "unprocessable",
+  "request_id": "req-fixture-0001"
+}
